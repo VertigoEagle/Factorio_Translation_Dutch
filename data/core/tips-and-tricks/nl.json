@@ -1,0 +1,41 @@
+
+[
+  {
+    "title": "Stapels overdragen",
+    "image": "stack-transfer.png",
+    "text": "\"__CONTROL__stack-transfer__\" zal een hele stapel verplaatsen. Het verplaatscommando is slim genoeg om uit te veinden waar de stapel naartoe moet. Bijvoorbeeld, het verplaatscommando uitvoeren op een __ITEM__iron-axe__ in de hoofdinventaris zal hem verplaatsen naar het gereedschapsvakje." },
+  {
+    "title": "Inventaris overdragen",
+    "image": "inventory-transfer.png",
+    "text": "\"__CONTROL__inventory-transfer__\" zal alle gelijke voorwerpen tussen inventarissen bewegen. Dit kan bijvoorbeeld gebruikt worden om alle transportbanden uit een __ENTITY__wooden-chest__ naar de hoofinventaris te verplaatsen."
+  },
+  {
+    "title": "Snel voorwerpen overdragen",
+    "image": "fast-entity-transfer.png",
+    "text": "\"__CONTROL__fast-entity-transfer__\" staat toe iets te verplaatsen van of naar een machine zonder zijn venster te openen. Als het hand van de speler leeg is gebeurt de verplaatsing van de machine naar de spelersinventaris, en omgekeerd als zijn hand gevuld is. Dit is handig in het begin van het spel, om __ENTITY__stone-furnace__s, __ENTITY__burner-mining-drill__en, enz. te beheren."
+  },
+  {
+    "title": "Snelbartoegang",
+    "image": "quickbar.png",
+    "text": "Elk snelbarvakje heeft een sneltoets om het voorwerp naar de cursor te verplaatsen. Als je cursor al een voorwerp heeft, keert dat terug naar het vakje waar het vandaan kwam."
+  },
+  {
+    "title": "Maak cursor schoon",
+    "text": "\"__CONTROL__clean-cursor__\" zal voorwerpen van je cursor terug in je snelbar of inventaris plaatsen.
+  },
+  {
+    "title": "Meer info",
+    "image": "show-info.png",
+    "text": "\"__CONTROL__show-info__\" schakelt uitgebreide informatie aan of uit."
+  },
+  {
+    "title": "Bouwen tijdens het lopen",
+    "image": "building-while-running.png",
+    "text": "De snelste manier om dingen te bouwen in een rechte lijn, zoals transportbanden, __ENTITY__pipe__en of invoerders, is de \"__CONTROL__build__\" ingedrukt houden en in de gewenste richting lopen."
+  },
+  {
+    "title": "Filters",
+    "image": "filter.png",
+    "text": "\"__CONTROL__set-filter__ op een snelbarvakje laat je instellen waar dat vakje voor dient.Geen andere voorwerpen kunnen dan in dat vakje, en het geselecteerde voorwerp zal altijd naar dat vakje gaan.
+  }
+]
